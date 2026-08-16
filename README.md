@@ -1,6 +1,6 @@
-# Speak Up English Academy - TMS Backend
 
-A production-ready NestJS backend for the Speak Up English Academy Training Management System.
+
+A production-ready NestJS backend for the Academy Training Management System.
 
 ## Architecture
 
